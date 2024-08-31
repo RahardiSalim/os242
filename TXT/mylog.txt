@@ -4,3 +4,5 @@
 ZCZC WEEK0 120 L06 Reading OS Book
 ZCZC WEEK0 100 L02 Attend class on Monday and Wednesday
 ZCZC WEEK0 20 L05 Doing quiz WEEK0
+ZCZC W00 10 L03 GitHub related
+ZCZC W00 10 L04 GitHub Pages related
