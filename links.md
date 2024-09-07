@@ -2,7 +2,7 @@
 permalink: LINKS/
 ---
 
-## [🏠 HOME](../)
+## [OS242](../)
 
 # Welcome to the Operating Systems Course Links 🎓
 
