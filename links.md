@@ -6,7 +6,7 @@ permalink: LINKS/
 
 ### Week 01 🚩
 <div class="link-card">
-  <h2>1.<a href="https://phoenixnap.com/kb/linux-commands-cheat-sheet">Linux Command Cheat Sheet</a></h2>
+  <h2>1. <a href="https://phoenixnap.com/kb/linux-commands-cheat-sheet">Linux Command Cheat Sheet</a></h2>
   <p>This cheat sheet offers a comprehensive list of essential Linux commands. It’s designed to help you navigate the terminal with ease.</p>
 </div>
 
