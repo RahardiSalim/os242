@@ -2,12 +2,6 @@
 permalink: LINKS/
 ---
 
-## [OS242](../)
-
-# Welcome to the Operating Systems Course Links 🎓
-
-On this page, you'll find helpful links organized by week
-
 ## LINKS
 
 ### Week 01 🚩
