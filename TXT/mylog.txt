@@ -1,6 +1,10 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
+E325: ATTENTION
+ZCZC W02 20 L05 QUIZ
+ZCZC W02 120 L09 Weekly Assignments
+ZCZC W02 200 L02 CLASSROOM/ZOOM meetings related
 ZCZC W01 20 L05 QUIZ
 ZCZC W01 360 L09 Weekly Assignments
 ZCZC W01 200 L02 CLASSROOM/ZOOM meetings related

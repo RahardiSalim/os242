@@ -20,7 +20,18 @@ permalink: LINKS/
   <p>This tutorial explains how to create files using the Linux Bash shell. It’s fundamental knowledge for working with files and directories in your course.</p>
 </div>
 
+### Week 02 🚩
+<div class="link-card">
+  <h2>1. <a href="https://geekflare.com/understanding-cybersecurity/">An Introduction to Cyber Security Basics for Beginner</a></h2>
+  <p>This article provides a beginner's guide to understanding the basics of cybersecurity. It covers key concepts like cyber threats, protection methods, and why cybersecurity is essential in today's digital world.</p>
+</div>
+
+<div class="link-card">
+  <h2>2. <a href="https://www.crowdstrike.com/cybersecurity-101/malware/types-of-malware/">THE 12 MOST COMMON TYPES OF MALWARE</a></h2>
+  <p>This resource from CrowdStrike details the most common types of malware. It provides explanations for each type, helping you understand the different ways malicious software can infiltrate systems and cause harm.</p>
+</div>
+
 <br>
 <br>
-#### REV: Sat 07 Sep 2024 16:00
+#### REV: Wed 11 Sep 2024 02:00
 <hr>
