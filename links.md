@@ -31,6 +31,22 @@ permalink: LINKS/
   <p>This resource from CrowdStrike details the most common types of malware. It provides explanations for each type, helping you understand the different ways malicious software can infiltrate systems and cause harm.</p>
 </div>
 
+### Week 03 🚩
+<div class="link-card">
+  <h2>1. <a href="https://www.techtarget.com/searchvirtualdesktop/definition/virtual-hard-disk-VHD">Virtual Hard Disks (VHD)</a></h2>
+  <p>This article explains the difference between physical and virtual hard disks. It also introduces virtual disks in a concise way.</p>
+</div>
+
+<div class="link-card">
+  <h2>2. <a href="https://www.youtube.com/watch?v=KJgsSFOSQv0">C Programming Course - 3 Hours</a></h2>
+  <p>A 3-hour YouTube course providing a comprehensive introduction to the C programming language. Perfect for beginners who want to learn C efficiently.</p>
+</div>
+
+<div class="link-card">
+  <h2>3. <a href="https://www.geeksforgeeks.org/file-systems-in-operating-system/">File Systems in Operating Systems</a></h2>
+  <p>This page from GeeksforGeeks provides an in-depth explanation of file systems in operating systems. It's a trusted resource that covers the topic in detail.</p>
+</div>
+
 <br>
 <br>
 #### REV: Wed 11 Sep 2024 02:00
