@@ -47,7 +47,23 @@ permalink: LINKS/
   <p>This page from GeeksforGeeks provides an in-depth explanation of file systems in operating systems. It's a trusted resource that covers the topic in detail.</p>
 </div>
 
+### Week 04 🚩
+<div class="link-card">
+  <h2>1. <a href="https://www.youtube.com/watch?v=uFj7mKNq1t0">Learning From SOSI (Addressing, Shared Libraries, and Pointer)</a></h2>
+  <p>This YouTube video from Mr. Anwar explains Linux libraries, data pointers, and addressing. It's a useful resource for understanding how these concepts apply in operating systems.</p>
+</div>
+
+<div class="link-card">
+  <h2>2. <a href="https://computer.howstuffworks.com/c23.htm">How Addressing Works</a></h2>
+  <p>This article dives into how addressing works in computers. It also provides insight into the people behind the development of addressing systems.</p>
+</div>
+
+<div class="link-card">
+  <h2>3. <a href="https://os.vlsm.org/Slides/os04.pdf">File System and FUSE</a></h2>
+  <p>This PPT from Mr. RMS covers memory addressing and pointers, specifically for the OS quiz. It includes insights on file systems and the FUSE framework.</p>
+</div>
+
 <br>
 <br>
-#### REV: Fri 20 Sep 2024 02:00
+#### REV: Fri 30 Sep 2024 21:00
 <hr>
