@@ -63,7 +63,23 @@ permalink: LINKS/
   <p>This PPT from Mr. RMS covers memory addressing and pointers, specifically for the OS quiz. It includes insights on file systems and the FUSE framework.</p>
 </div>
 
+### Week 05 🚩
+<div class="link-card">
+  <h2>1. <a href="https://www.geeksforgeeks.org/memory-management-in-operating-system/">Memory Management in Operating System</a></h2>
+  <p>This article from GeeksforGeeks explains the key concepts of memory management in operating systems. It covers various techniques used to manage memory, including segmentation and paging.</p>
+</div>
+
+<div class="link-card">
+  <h2>2. <a href="https://www.geeksforgeeks.org/virtual-memory-in-operating-system/">Virtual Memory in Operating System</a></h2>
+  <p>This resource covers virtual memory, a crucial topic in operating systems. It provides an overview of how virtual memory allows secondary storage to be used as main memory, enhancing system performance.</p>
+</div>
+
+<div class="link-card">
+  <h2>3. <a href="https://www.studocu.com/row/document/xian-jiaotong-university/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/operating-system-concepts-exercise10/24296566">Chapter 10 Exercises</a></h2>
+  <p>This page contains exercises from Chapter 10 of a popular operating systems textbook. It provides practical exercises to test your knowledge of memory management concepts discussed in the week.</p>
+</div>
+
 <br>
 <br>
-#### REV: Fri 30 Sep 2024 21:00
+#### REV: Sun 6 Oct 2024 15:30
 <hr>
