@@ -79,7 +79,23 @@ permalink: LINKS/
   <p>This page contains exercises from Chapter 10 of a popular operating systems textbook. It provides practical exercises to test your knowledge of memory management concepts discussed in the week.</p>
 </div>
 
+### Week 06 🚩
+<div class="link-card">
+  <h2>1. <a href="https://www.youtube.com/watch?v=cex9XrZCU14">Forking in C</a></h2>
+  <p>This video explains how to use the forking command in C, enabling you to run multiple processes simultaneously. Forking is a fundamental concept in OS for creating and managing child processes.</p>
+</div>
+
+<div class="link-card">
+  <h2>2. <a href="https://www.youtube.com/watch?v=xVSPv-9x3gk">Forking Concept Illustrated</a></h2>
+  <p>This illustrated video provides a visual approach to understanding forking in C. It breaks down the process of creating new threads and helps make the concept more accessible for beginners.</p>
+</div>
+
+<div class="link-card">
+  <h2>3. <a href="https://www.youtube.com/watch?v=xVSPv-9x3gk">Tarball Archive Format</a></h2>
+  <p>This video introduces the .tar format, commonly used for archiving files on Unix-like systems. Understanding tarballs is essential for compressing and managing large sets of files effectively.</p>
+</div>
+
 <br>
 <br>
-#### REV: Sun 6 Oct 2024 15:30
+#### REV: Sun 29 Oct 2024 16:00
 <hr>

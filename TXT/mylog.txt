@@ -2,6 +2,9 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 E325: ATTENTION
+ZCZC W06 20 L05 QUIZ
+ZCZC W06 700 L09 Weekly Assignments
+ZCZC W06 200 L02 CLASSROOM/ZOOM meetings related
 ZCZC W05 20 L05 QUIZ
 ZCZC W05 700 L09 Weekly Assignments
 ZCZC W05 200 L02 CLASSROOM/ZOOM meetings related
