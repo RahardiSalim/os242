@@ -95,7 +95,23 @@ permalink: LINKS/
   <p>This video introduces the .tar format, commonly used for archiving files on Unix-like systems. Understanding tarballs is essential for compressing and managing large sets of files effectively.</p>
 </div>
 
+### Week 07 🚩
+<div class="link-card">
+  <h2>1. <a href="https://www.geeksforgeeks.org/introduction-of-process-synchronization/">Introduction to Process Synchronization</a></h2>
+  <p>This article offers a clear introduction to process synchronization, covering why it’s crucial for managing concurrent processes in operating systems.</p>
+</div>
+
+<div class="link-card">
+  <h2>2. <a href="https://www.youtube.com/watch?v=ph2awKa8r5Y&list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2">Synchronization Playlist</a></h2>
+  <p>A full YouTube playlist dedicated to the topic of synchronization, featuring various approaches and challenges, ideal for understanding this complex topic thoroughly.</p>
+</div>
+
+<div class="link-card">
+  <h2>3. <a href="https://www.youtube.com/watch?v=42iQKuQodW4">Linux Filesystem Overview</a></h2>
+  <p>This engaging video gives a fun and informative overview of the Linux filesystem, making it easier to grasp the structure and navigation of file systems in Linux.</p>
+</div>
+
 <br>
 <br>
-#### REV: Sun 29 Oct 2024 16:00
+#### REV: Fri 1 Nov 2024 13:00
 <hr>
