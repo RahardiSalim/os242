@@ -111,7 +111,23 @@ permalink: LINKS/
   <p>This engaging video gives a fun and informative overview of the Linux filesystem, making it easier to grasp the structure and navigation of file systems in Linux.</p>
 </div>
 
+### Week 08 🚩
+<div class="link-card">
+  <h2>1. <a href="https://lfs.mirrors.hoobly.com/lfs/view/12.1/index.html">Linux From Scratch</a></h2>
+  <p>A comprehensive guide that walks you through creating your own Linux operating system from scratch. This tutorial is useful for learning the core components and processes of Linux.</p>
+</div>
+
+<div class="link-card">
+  <h2>2. <a href="https://www.youtube.com/watch?v=685qdaX9YQc">Linux From Scratch YouTube Tutorial</a></h2>
+  <p>This video tutorial offers a step-by-step visual guide on building a Linux system from scratch. It provides an accessible introduction to the concepts and commands involved.</p>
+</div>
+
+<div class="link-card">
+  <h2>3. <a href="https://www.geeksforgeeks.org/preemptive-and-non-preemptive-scheduling/">Preemptive and Non-Preemptive Scheduling</a></h2>
+  <p>This article explains the differences between preemptive and non-preemptive scheduling. Preemptive scheduling allows processes to switch from running to ready or waiting, whereas non-preemptive scheduling only occurs when a process finishes or moves to waiting.</p>
+</div>
+
 <br>
 <br>
-#### REV: Fri 1 Nov 2024 13:00
+#### REV: Sun 10 Nov 2024 13:00
 <hr>
